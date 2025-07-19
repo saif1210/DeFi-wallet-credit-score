@@ -88,6 +88,9 @@ Wallet scores are binned into the following ranges:
 
 Score Distribution Graph
 
+<img width="870" height="554" alt="Screenshot 2025-07-19 135600" src="https://github.com/user-attachments/assets/ac2aa353-8a16-4575-ac0d-c941f6248bc4" />
+
+
 #How to Run
 
 ##Requirements
